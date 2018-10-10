@@ -1,1 +1,1 @@
-Testing the file and exploring how github works. So far it seems easy and awesome. Testing branch. NEW TESTING BRANCH. Post merging test.
+Testing the file and exploring how github works. So far it seems easy and awesome. Testing branch. NEW TESTING BRANCH. Post merging test. Test issue resolved.
